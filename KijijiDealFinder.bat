@@ -1,1 +1,1 @@
-java -jar "path-to-jar-goes-here"
+java -jar "dist\KijijiDealFinder.jar"
