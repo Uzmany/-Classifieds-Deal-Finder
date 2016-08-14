@@ -1,3 +1,5 @@
+#DoNotUse- Legal Gray Area
+
 # KijijiDealFinder
 
 This application can be used to find deals on Kijiji a lot faster than conventionally browsing through kijiji.
